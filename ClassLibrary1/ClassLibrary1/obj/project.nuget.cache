@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ogg/tfM0hJOgho/HbWyD7Nfu6kAGKPsSc2lPtKxOU6KA+/NE6p2+CzfT0BJYWhv9i2tOYpwPnpQtX2+BzdxwLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\twinb0rn\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\twinb0rn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\twinb0rn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
